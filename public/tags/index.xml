@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Om&#39;s Blog</title>
+    <link>http://example.com/tags/</link>
+    <description>Recent content in Tags on Om&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© This post is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License，please give source if you wish to quote or reproduce.</copyright>
+    <lastBuildDate>Tue, 31 Jul 2018 17:12:25 +0800</lastBuildDate>
+    
+	<atom:link href="http://example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Heloo</title>
+      <link>http://example.com/tags/heloo/</link>
+      <pubDate>Tue, 31 Jul 2018 17:12:25 +0800</pubDate>
+      
+      <guid>http://example.com/tags/heloo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>World</title>
+      <link>http://example.com/tags/world/</link>
+      <pubDate>Tue, 31 Jul 2018 17:12:25 +0800</pubDate>
+      
+      <guid>http://example.com/tags/world/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
