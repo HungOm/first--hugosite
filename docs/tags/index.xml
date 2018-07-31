@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Om&#39;s Blog</title>
-    <link>http://example.com/tags/</link>
+    <link>https://hungom.github.io/first--hugosite/tags/</link>
     <description>Recent content in Tags on Om&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© This post is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License，please give source if you wish to quote or reproduce.</copyright>
     <lastBuildDate>Tue, 31 Jul 2018 17:12:25 +0800</lastBuildDate>
     
-	<atom:link href="http://example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://hungom.github.io/first--hugosite/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Heloo</title>
-      <link>http://example.com/tags/heloo/</link>
+      <link>https://hungom.github.io/first--hugosite/tags/heloo/</link>
       <pubDate>Tue, 31 Jul 2018 17:12:25 +0800</pubDate>
       
-      <guid>http://example.com/tags/heloo/</guid>
+      <guid>https://hungom.github.io/first--hugosite/tags/heloo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>World</title>
-      <link>http://example.com/tags/world/</link>
+      <link>https://hungom.github.io/first--hugosite/tags/world/</link>
       <pubDate>Tue, 31 Jul 2018 17:12:25 +0800</pubDate>
       
-      <guid>http://example.com/tags/world/</guid>
+      <guid>https://hungom.github.io/first--hugosite/tags/world/</guid>
       <description></description>
     </item>
     

@@ -3,51 +3,51 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.com/links/</loc>
+    <loc>https://hungom.github.io/first--hugosite/links/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.com/about/</loc>
+    <loc>https://hungom.github.io/first--hugosite/about/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.com/post/hello-world/</loc>
+    <loc>https://hungom.github.io/first--hugosite/post/hello-world/</loc>
     <lastmod>2018-07-31T17:12:25+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.com/categories/</loc>
+    <loc>https://hungom.github.io/first--hugosite/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/heloo/</loc>
+    <loc>https://hungom.github.io/first--hugosite/tags/heloo/</loc>
     <lastmod>2018-07-31T17:12:25+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.com/</loc>
+    <loc>https://hungom.github.io/first--hugosite/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.com/post/</loc>
+    <loc>https://hungom.github.io/first--hugosite/post/</loc>
     <lastmod>2018-07-31T17:12:25+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/</loc>
+    <loc>https://hungom.github.io/first--hugosite/tags/</loc>
     <lastmod>2018-07-31T17:12:25+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/world/</loc>
+    <loc>https://hungom.github.io/first--hugosite/tags/world/</loc>
     <lastmod>2018-07-31T17:12:25+08:00</lastmod>
     <priority>0</priority>
   </url>
