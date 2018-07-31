@@ -1,2 +1,2 @@
 # hugosite
-This my hugo example site
+This is my hugo example site
