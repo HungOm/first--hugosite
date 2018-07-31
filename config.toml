@@ -1,7 +1,9 @@
 baseURL = "http://example.com"
 languageCode = "en"
 title = "Om's Blog"
+themesDir= "themes"
 theme = "hugo-nuo"
+publishDir ="docs"
 enableRobotsTXT = true
 PygmentsCodeFences = true
 canonifyurls = true
